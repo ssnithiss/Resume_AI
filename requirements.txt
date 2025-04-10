@@ -8,3 +8,4 @@ tiktoken
 numpy
 pandas
 scikit-learn
+langchain-google-genai
