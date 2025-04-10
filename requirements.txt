@@ -1,0 +1,10 @@
+faiss-cpu
+langchain
+google-generativeai
+PyMuPDF
+python-dotenv
+streamlit
+tiktoken
+numpy
+pandas
+scikit-learn
